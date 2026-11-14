@@ -10,6 +10,7 @@
         url="https://github.com/PhaHoeun/DiPOS-App/releases/download/test_v1.8.3/test.diposv1.8.3.exe"
         sparkle:version="1.8.3"
         sparkle:os="windows"
+        sparkle:installerArguments="/SILENT"
         type="application/octet-stream" />
     </item>
   </channel>

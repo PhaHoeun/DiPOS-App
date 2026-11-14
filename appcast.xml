@@ -7,7 +7,7 @@
       <description>Bug fixes and performance improvements.</description>
       <pubDate>Sat, 14 Nov 2026 09:40:00 +0700</pubDate>
       <enclosure 
-        url="https://github.com/PhaHoeun/DiPOS-App/releases/download/test_v1.8.3/test.diposv1.8.3.exe"
+        url="https://github.com/PhaHoeun/DiPOS-App/releases/download/DiPOS(V1.8.2)/DiPOS.V1.8.2.exe"
         sparkle:version="1.8.4"
         sparkle:os="windows"
         type="application/octet-stream" />

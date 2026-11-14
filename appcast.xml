@@ -8,7 +8,7 @@
       <pubDate>Sat, 14 Nov 2026 11:09:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/PhaHoeun/DiPOS-App/releases/download/DiPOS(V1.8.3)/DiPOS.V1.8.3.exe"
-        sparkle:version="1.8.3+39"
+        sparkle:version="1.8.3+40"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT"
         type="application/octet-stream" />
